@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Este projeto tem como objetivo desenvolver um sistema de cadastro de usuários para o uso das piscinas dos Centros Sociais Urbanos (CSU) da Prefeitura de São João da Boa Vista - SP. O sistema permitirá a gestão eficiente dos frequentadores, garantindo organização e segurança no uso dos espaços públicos.  Com a implementação deste sistema, os antigos armários de documentos físicos serão desativados, marcando uma transição para um sistema digital mais moderno e eficiente.
+Este projeto tem como objetivo desenvolver um sistema de cadastro de usuários para o uso das piscinas dos Centros Sociais Urbanos (CSU) da Prefeitura de São João da Boa Vista - SP. O sistema permitirá a gestão eficiente dos frequentadores, garantindo organização e segurança no uso dos espaços públicos. Com a implementação deste sistema, os antigos armários de documentos físicos serão desativados, marcando uma transição para um sistema digital mais moderno e eficiente.
 
 ## Tecnologias Utilizadas
 
@@ -27,7 +27,8 @@ O projeto será desenvolvido utilizando diferentes tecnologias, abordadas nas di
 ## Funcionalidades do Sistema
 
 *   Cadastro de usuários com informações pessoais e documentação.
-*   Controle de acesso às piscinas dos CSU.
+*   Cadastro do médico responsável pelo exame e período de validade do exame (3 meses).
+*   Controle de acesso às piscinas dos CSU através de catracas e leitura de QR Code.
 *   Geração de relatórios sobre os frequentadores.
 *   Integração com banco de dados MySQL.
 *   Interface responsiva para acesso em diferentes dispositivos.
