@@ -92,5 +92,5 @@ Este projeto representa um grande avanço na gestão dos Centros Sociais Urbanos
 
 A Prefeitura de São João da Boa Vista reafirma seu compromisso com a inovação e a melhoria dos serviços públicos.
 
-📌 **UNIFEOB - Análise e Desenvolvimento de Sistemas - 3º Semestre - 2024**
+📌 **UNIFEOB - Análise e Desenvolvimento de Sistemas - 3º Semestre - 2025**
 
